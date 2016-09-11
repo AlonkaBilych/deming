@@ -1,0 +1,12 @@
+.wrapper {
+	table-layout: fixed;
+	display: table;
+	margin: 0 auto;
+	max-width: $maxWidth;
+	height: 100%;
+	width: 100%;
+}
+.main {
+	display: table-row;
+	height: 100%;
+}
